@@ -1,0 +1,10 @@
+
+-----------ObjFrame.Teacher--------------
+name :张三
+age :40
+salary :8888
+
+-----------ObjFrame.Student--------------
+name :小明
+age :12
+scores :100.0
